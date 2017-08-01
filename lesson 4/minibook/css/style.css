@@ -1,0 +1,12 @@
+.text h2, h3{
+	text-align: center;
+	background-color: rgba(124,34,45,0.15);
+	border: 2px solid grey;
+}
+.text {
+	background-color: rgba(124,34,45,0.1);
+	border: 5px double grey;
+}
+/* .text h2 {
+	display: inline-block; попытка перевести блок в строку, но не очень удачно пока
+} */
