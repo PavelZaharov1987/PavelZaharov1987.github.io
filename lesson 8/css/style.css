@@ -1,0 +1,12 @@
+.box {
+	height: 100px;
+	background-color: red;
+	margin-top: 10px;
+}
+.icon {
+	left: 50%;
+	margin-left: -35px;
+	position: absolute;
+	top: 50%;
+	margin-top: -30px;
+}
