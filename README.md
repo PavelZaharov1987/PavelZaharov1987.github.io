@@ -6,3 +6,5 @@
 [Урок 6 часть 1](https://pavelzaharov1987.github.io/lesson%206%20part%201/) - меню сверху
 
 [Урок 6 часть 2](https://pavelzaharov1987.github.io/lesson%206%20part%202/) - блок в центре
+
+[Урок 8](https://pavelzaharov1987.github.io/lesson%208/) - 6 иконок
