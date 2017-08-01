@@ -1,0 +1,11 @@
+.box {
+	height: 400px;
+	width: 300px;
+	border: 2px solid grey;
+	top: 50%;
+	margin-top: -210px;
+	left: 50%;
+	margin-left: -150px;
+	position: absolute;
+	padding: 20px 30px;
+}
